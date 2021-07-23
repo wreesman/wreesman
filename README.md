@@ -1,3 +1,6 @@
+![clemson](https://user-images.githubusercontent.com/65511686/126847255-aaa698ac-46e5-4c49-9dd3-8326742a8f70.jpg)
+
+
 # Ward Reesman
 
 ## About Me
@@ -10,6 +13,7 @@
 ## Current projects
 - RA for Clemson Economic Trends website and blog
 - Graduate instructor of record for ECON-3100
+
 
 <!--
 **wreesman/wreesman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
