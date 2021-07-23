@@ -1,4 +1,15 @@
-### Hi there 👋
+# Ward Reesman
+
+## About Me
+- Ph.D. candidate in economics at Clemson University
+
+## Research Interests
+- International trade
+- Industrial organization
+
+## Current projects
+- RA for Clemson Economic Trends website and blog
+- Graduate instructor of record for ECON-3100
 
 <!--
 **wreesman/wreesman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
