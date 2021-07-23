@@ -13,6 +13,7 @@
 ## Current projects
 - RA for Clemson Economic Trends website and blog
 - Graduate instructor of record for ECON-3100
+- Ongoing research into the relationship between trade policy and sustainability of tacit collusion via multimarket contact
 
 
 <!--
