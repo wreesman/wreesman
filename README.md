@@ -12,7 +12,7 @@
 
 ## Current projects
 - Graduate instructor of record for ECON-3100
-- Ongoing research into the relationship between trade policy and sustainability of tacit collusion via multimarket contact; economic determinants of economic integration agreements
+- Ongoing research into the firm-level determinants of temporary trade barriers and the implications for causal estimates of the effects of temporary trade barriers; economic determinants of economic integration agreements
 
 
 <!--
