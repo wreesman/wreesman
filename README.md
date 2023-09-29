@@ -8,11 +8,17 @@
 
 ## Research Interests
 - International trade
+- Trade policy
 - Industrial organization
 
-## Current projects
-- Graduate instructor of record for ECON-3100
-- Ongoing research into the firm-level determinants of temporary trade barriers and the implications for causal estimates of the effects of temporary trade barriers; economic determinants of economic integration agreements
+## Current Research
+- "Temporary Trade Barriers and Trade Growth" with Cheng Chen
+- "Determinants of Economic Integration Agreements" with Scott Baier
+- "Firm Export Responses to Temporary Trade Barriers" with Cheng Chen, Zhang Chen, and Chang Sun
+- "Trade and Tariffs in the Colonial Chesapeake" with Ben Jaros
+
+## Teaching
+- Graduate instructor of record for ECON-3100, ECON-2110
 
 
 <!--
